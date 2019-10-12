@@ -1,0 +1,7 @@
+### Dependcies are not needed to upload 
+
+node_modules/
+
+### Credentials store file are needed to upload their
+
+./.env
