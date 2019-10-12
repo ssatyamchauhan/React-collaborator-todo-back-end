@@ -4,4 +4,4 @@ node_modules/
 
 ### Credentials store file are needed to upload their
 
-./.env
+./env
